@@ -44,7 +44,7 @@ skill_extractor.py
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/InterviewGPT.git
+git clone https://github.com/ChandhanaAnnamgi/InterviewGPT.git
 cd InterviewGPT
 
 
